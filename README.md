@@ -1,20 +1,30 @@
-# BootstrapFormHelpers
 Jquery ile ülkeler ve şehirler
+===================
+> JQuery ile ülkeleri ve seçilen ülkeye göre şehirleri getiren script.
 
-<select> elementi ile birlikte çalışır. önce ülkeler yüklenir. seçilen ülkeye göre şehirler yüklenir.
 
-kullanımı:
+#### <i class="icon-file"></i> Kullanımı:
+  
 
-scripti'i sayfaya dahil edin:
-s
-<script src="<?php echo base_url(); ?>UlkeSehirHelper.js"></script>
+  script'i sayfaya dahil edin
+   
 
-select elementini form tag'inin arasına yazın:s
+    <script src="UlkeSehirHelper.js"></script>
 
-<select id="countries_states1" name="ulke"  class="form-control bfh-countries" data-country="TR" ></select>
+**select** elementini form tag'inin arasına yazın
 
-select options:
-country	Two letters country code. To select a country. Required when blank is set to false. Default: ''
-available	Comma separated list of two letters country code. To restrict the list of countries. Default: ''
-flags	Boolean. To show the country flags. Default: false
-blank	Boolean. To show a blank option. Default: trues
+    <select id="countries_states1" name="ulke"  class="form-control bfh-countries" data-country="TR" ></select>
+**select** elementini form tag'inin arasına yazın
+
+    <select class="form-control bfh-states" name="sehir"  data-country="countries_states1" data-state="GAZ"></select>
+
+**select** option attribute açıklamaları:
+
+Attribute     | Açıklama
+-------- | ---
+country | 2 harfli ülke kodu. Ülke seçimi için kullanılır. blank false is boş olamaz. default :''
+available    |Seçili ülkeleri getirir. Virgüllere ayırarak ülke kodu girilir. Default: ''
+blank     |Boolean. Boş select option. Default: true
+
+
+script'in orjinal repo'su: https://github.com/winmarkltd/BootstrapFormHelpers
