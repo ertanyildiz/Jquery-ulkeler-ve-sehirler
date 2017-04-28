@@ -11,10 +11,10 @@ Jquery ile ülkeler ve şehirler
 
     <script src="UlkeSehirHelper.js"></script>
 
-**select** elementini form tag'inin arasına yazın
+**select** elementini form tag'inin arasına yazın (ülke)
 
     <select id="countries_states1" name="ulke"  class="form-control bfh-countries" data-country="TR" ></select>
-**select** elementini form tag'inin arasına yazın
+**select** elementini form tag'inin arasına yazın (şehir)
 
     <select class="form-control bfh-states" name="sehir"  data-country="countries_states1" data-state="GAZ"></select>
 
