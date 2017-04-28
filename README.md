@@ -9,7 +9,7 @@ Jquery ile ülkeler ve şehirler
   script'i sayfaya dahil edin
    
 
-    <script src="UlkeSehirHelper.js"></script>
+    <script src="UlkeSehirHelper.min.js"></script>
 
 **select** elementini form tag'inin arasına yazın (ülke)
 
