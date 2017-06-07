@@ -1,4 +1,4 @@
-"TR": [
+{"TR": [
  { "code":  "ADA", "name": "Adana", "tr": "adana", "tr": "adana"},
  { "code":  "ADI", "name": "Adıyaman", "tr": "adiyaman"},
  { "code":  "AFY", "name": "Afyonkarahisar", "tr": "afyonkarahisar"},
@@ -25,7 +25,7 @@
  { "code":  "COR", "name": "Çorum", "tr": "corum"},
  { "code":  "DEN", "name": "Denizli", "tr": "denizli"},
  { "code":  "DIY", "name": "Diyarbakır", "tr": "diyarbakir"},
- { "code":  "DUZ", "name": "Düzce", "tr": "duzece"},
+ { "code":  "DUZ", "name": "Düzce", "tr": "duzce"},
  { "code":  "EDI", "name": "Edirne", "tr": "edirne"},
  { "code":  "ELA", "name": "Elazığ", "tr": "elazig"},
  { "code":  "EZC", "name": "Erzincan", "tr": "erzincan"},
@@ -35,12 +35,12 @@
  { "code":  "GIR", "name": "Giresun", "tr": "giresun"},
  { "code":  "GMS", "name": "Gümüşhane", "tr": "gumushane"},
  { "code":  "HKR", "name": "Hakkari", "tr": "hakkari"},
- { "code":  "HTY", "name": "Hatay", "tr": "hayat"},
+ { "code":  "HTY", "name": "Hatay", "tr": "hatay"},
  { "code":  "IGD", "name": "Igdır", "tr": "igdir"},
  { "code":  "ISP", "name": "Isparta", "tr": "isparta"},
  { "code":  "IST", "name": "İstanbul", "tr": "istanbul"},
  { "code":  "IZM", "name": "İzmir", "tr": "izmir"},
- { "code":  "KAH", "name": "Kahramanmaraş", "tr": "karanmaras"},
+ { "code":  "KAH", "name": "Kahramanmaraş", "tr": "kahramanmaras"},
  { "code":  "KRB", "name": "Karabük", "tr": "karabuk"},
  { "code":  "KRM", "name": "Karaman", "tr": "karaman"},
  { "code":  "KRS", "name": "Kars", "tr": "kars"},
@@ -67,7 +67,7 @@
  { "code":  "SAK", "name": "Sakarya", "tr": "sakarya"},
  { "code":  "SAM", "name": "Samsun", "tr": "samsun"},
  { "code":  "SAN", "name": "Şanlıurfa", "tr": "sanliurfa"},
- { "code":  "SII", "name": "Siirt", "tr": "siir"},
+ { "code":  "SII", "name": "Siirt", "tr": "siirt"},
  { "code":  "SIN", "name": "Sinop", "tr": "sinop"},
  { "code":  "SIR", "name": "Şırnak", "tr": "sirnak"},
  { "code":  "SIV", "name": "Sivas", "tr": "sivas"},
@@ -80,4 +80,4 @@
  { "code":  "YAL", "name": "Yalova", "tr": "yalova"},
  { "code":  "YOZ", "name": "Yozgat", "tr": "yozgat"},
  { "code":  "ZON", "name": "Zonguldak", "tr": "zonguldak"}
- ]
+ ]}
