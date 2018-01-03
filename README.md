@@ -26,5 +26,6 @@ country | 2 harfli ülke kodu. Ülke seçimi için kullanılır. blank false is 
 available    |Seçili ülkeleri getirir. Virgüllere ayırarak ülke kodu girilir. Default: ''
 blank     |Boolean. Boş select option. Default: true
 
+**Not:** select elementi form tag'leri arasına yazılmazsa script çalışmayacaktır.
 
 script'in orjinal repo'su: https://github.com/winmarkltd/BootstrapFormHelpers
